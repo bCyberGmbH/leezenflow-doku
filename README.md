@@ -19,11 +19,11 @@ Wir freuen uns über konstruktive Mitarbeit 👍
 
 | Beschreibung | Tool |
 | -------- | -------- |
-| Diskussionen und Fragen | GitHub Discussions |
-| ToDo's + geplante Änderungen | GitHub Issues |
-| Änderungen an dieser Doku | GitHub Pull-Request |
+| Diskussionen und Fragen | [GitHub Discussions](https://github.com/bCyberGmbH/leezenflow-doku/discussions) |
+| ToDo's + geplante Änderungen | [GitHub Issues](https://github.com/bCyberGmbH/leezenflow-doku/issues) |
+| Änderungen an dieser Doku | [GitHub Pull-Requests](https://github.com/bCyberGmbH/leezenflow-doku/pulls) |
 
-Im Zweifel ist der richtige Einstiegspunkt immer eine Diskussion in den GitHub Discussions :wink: 
+Im Zweifel ist der richtige Einstiegspunkt immer eine Diskussion in den [GitHub Discussions](https://github.com/bCyberGmbH/leezenflow-doku/discussions) :wink: 
 
 ## Komponenten
 
