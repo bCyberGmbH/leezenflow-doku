@@ -48,9 +48,17 @@ Diese Anleitung ist noch im Aufbau. Eventuell sind ein paar Informationen noch u
 | Netzwerkstecker zum Crimpen |  |  |  |  |  |
 | Wago Klemmen |  |  |  |  |  |
 | Kabelbinder |  |  |  |  |  |
-| Holzspatel |  |  |  |  |  |
 | Kosten Verbrauchsmaterial |  |  | 30,00 € |  |  |
 | **Summe** |  |  | **558,32€** | **26,33€** |  |
+
+Außerdem Werkzeug:
+
+- 3D-Drucker (wir haben einen [Prusa i3 MK3S+ Drucker](https://shop.prusa3d.com/de/3d-drucker/181-original-prusa-i3-mk3s-drucker.html) benutzt)
+- Gummihammer
+- Stechbeitel
+- Schmirgelpapier
+- Holzspatel
+- Malerkrepp-Klebeband
 
 ## Aufwand
 
