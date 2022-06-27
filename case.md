@@ -22,7 +22,7 @@ Diese Anleitung ist noch im Aufbau. Eventuell sind ein paar Informationen noch u
 | LAPP 53111220 Kabelverschraubung M20 | Conrad | https://www.conrad.de/de/p/lapp-53111220-kabelverschraubung-m20-polyamid-schwarz-ral-9005-1-st-526826.html | 1,26 € | 0,00 € |  |
 | LAPP SKINTOP® GMP-GL-M12 x 1.5   Gegenmutter | Conrad | https://www.conrad.de/de/p/lapp-skintop-gmp-gl-m12-x-1-5-gegenmutter-m12-polyamid-schwarz-ral-9005-1-st-527182.html | 0,16 € | 0,00 € |  |
 | Mast Halterung | iQ Parts | https://www.iq-parts-shop.com/en/mounting-brackets-with-straight-legs-h008-ais.html | 12,62 € | 4,95 € |  |
-| Silokon | Amazon | https://amzn.to/3dMYZIo | 4,73 € | (Amazon Prime) |  |
+| Silikon | Amazon | https://amzn.to/3dMYZIo | 4,73 € | (Amazon Prime) |  |
 | 2mm Klebeband | Amazon | https://amzn.to/3jJBcwM | 8,49 € | (Amazon Prime) |  |
 | Kabelverschraubung | Amazon | https://amzn.to/3dPAjyT | 8,39 € | (Amazon Prime) |  |
 |  |  |  |  |  |  |
@@ -50,6 +50,15 @@ Diese Anleitung ist noch im Aufbau. Eventuell sind ein paar Informationen noch u
 | Kabelbinder |  |  |  |  |  |
 | Kosten Verbrauchsmaterial |  |  | 30,00 € |  |  |
 | **Summe** |  |  | **558,32€** | **26,33€** |  |
+
+Außerdem Werkzeug:
+
+- 3D-Drucker (wir haben einen [Prusa i3 MK3S+ Drucker](https://shop.prusa3d.com/de/3d-drucker/181-original-prusa-i3-mk3s-drucker.html) benutzt)
+- Gummihammer
+- Stechbeitel
+- Schmirgelpapier
+- Holzspatel
+- Malerkrepp-Klebeband
 
 ## Aufwand
 
