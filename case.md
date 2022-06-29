@@ -59,6 +59,8 @@ Außerdem Werkzeug:
 - Schmirgelpapier
 - Holzspatel
 - Malerkrepp-Klebeband
+- Lötkolben zum erhitzen der Gewinde für die Rückplatte
+- Pinzette
 
 ## Aufwand
 
@@ -105,7 +107,9 @@ Darauf achten, die Halterungen komplett einzuschieben. Stehen die Halterungen zu
 
 ![Halterungen einsetzen](bilder/halterung-einsetzen.png)
 
-Nach dem Verkleben müssen noch die Gewindeeinsätze eingelassen werden.
+Nach dem Verkleben müssen noch die Gewindeeinsätze in die schon in den gedruckten Gehäuseteilen vorhandenen Löcher eingelassen werden. Die Löcher sind schon "vorgedruckt" und haben genau die passende Größe. 
+Damit die Gewindeeinlässe fest sitzen, werden die Gewinde mit dem Lötkolben erhitzt und dann in den Löchern versenkt. Dazu wählt man eine Lötspitze, auf die die Gewindeeinsätze aufgesteckt werden können. Nachdem der Gewindeeinsatz erhitzt ist, den Gewindeeinsatz mit dem Lötkolben in ein Loch stecken und den Lötkolben wieder heraus ziehen. Mit der Pinzette nachhelfen, dass der Gewindeeinsatz im Loch verbleibt.
+Dabei unbedingt darauf achten, dass die Löcher nicht einseitig angeschmolzen werden.
 
 ![Positionen der Gewindeeinsätze](bilder/gewinde.jpg)
 
