@@ -42,6 +42,8 @@ Weitere Informationen findet man auch in der `at` Dokumentation: https://linux.d
 
 Das Netzwerk im Steuergerät hat eine direkte Verbindung in das städtische Netzwerk. Man könnte somit z.B. aus Versehen auf andere Geräte zugreifen. Eine einfache Möglichkeit das zu verhindern ist es, den Laptop nicht in den vorhanden Switch einzustecken, sondern das vorhandene Kabel zwischen Switch und PoE-Injector abzustecken und mit einem RJ45 zu RJ45 Adapter zu arbeiten. So, dass man physikalisch nur eine Verbindung zum PoE-Injector und der Sender-RSU hat.
 
+# Veraltete Informationen (nicht mehr relevant)
+
 ## Kein Empfang
 
 Ein Problem (z.B. nach einem Stromausfall) kann sein, dass die `rsu.conf`-Datei auf dem Empfänger "zurückgesetzt" wurde.
